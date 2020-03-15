@@ -1,5 +1,3 @@
-<img src="profile.jpg" width=128 height=128 aligh=left />
-
 # 匡开铭 Kaiming Kuang
 
 Computer Vision Engineer
