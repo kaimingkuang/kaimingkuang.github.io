@@ -1,5 +1,9 @@
 # Kaiming Kuang's GitHub Page
 
+
+## Profile
+![profile](profile.jpg)
+
 ## Publications
 *Deep-learning-assisted Detection and Segmentation of Rib Fractures from CT Scans: Development and Validation of FracNet*
 
