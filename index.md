@@ -1,3 +1,6 @@
+## Biography
+I am a computer vision engineer focusing on medical AI at Diannei Technologies, Shanghai, China. Prior to that, I went to Renmin University of China in Beijing for undergraduate and earned my master degree at University of California, San Diego.
+
 ## Publications
 *Deep-learning-assisted Detection and Segmentation of Rib Fractures from CT Scans: Development and Validation of FracNet*
 
