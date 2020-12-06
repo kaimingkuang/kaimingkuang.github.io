@@ -1,3 +1,12 @@
+## Kaiming Kuang
+
+Computer vision engineer
+
+Diannei Technologies, Shanghai, China
+
+kaiming.kuang@outlook.com
+
+## Biography
 I am a computer vision engineer focusing on medical AI at Diannei Technologies, Shanghai, China. Prior to that, I went to Renmin University of China in Beijing for undergraduate and earned my master degree at University of California, San Diego.
 
 ## Publications
