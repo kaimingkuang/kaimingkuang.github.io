@@ -1,5 +1,3 @@
-## Kaiming Kuang
-
 Computer vision engineer
 
 Diannei Technologies, Shanghai, China
