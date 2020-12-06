@@ -1,6 +1,4 @@
-# Kaiming Kuang's GitHub Page
-
-## Publications
+# Publications
 *Deep-learning-assisted Detection and Segmentation of Rib Fractures from CT Scans: Development and Validation of FracNet*
 
 Liang Jin, Jiancheng Yang, **Kaiming Kuang**, Bingbing Ni, Yiyi Gao, Yingli Sun, Pan Gao, Weiling Ma, Mingyu Tan, Hui Kang, Jiajun Chen, Ming Li
@@ -19,5 +17,5 @@ Jiancheng Yang, Mingze Gao, **Kaiming Kuang**, Bingbing Ni, Yunlang She, Dong Xi
 
 MICCAI 2020 [DOI](https://doi.org/10.1007/978-3-030-59725-2_48), [arXiv](https://arxiv.org/abs/2010.04049)
 
-## Activities
+# Activities
 RSNA Intracranial Hemorrhage Detection: Classify brain hemorrhages in CT slices. Ranked 8% among 1,345 teams.
