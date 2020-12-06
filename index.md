@@ -1,7 +1,3 @@
-Computer vision engineer
-
-Diannei Technologies, Shanghai, China
-
 kaiming.kuang@outlook.com
 
 ## Biography
