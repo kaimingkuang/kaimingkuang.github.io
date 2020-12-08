@@ -29,10 +29,6 @@ I am a computer vision engineer focusing on medical AI at Diannei Technologies, 
   [DOI](https://doi.org/10.1007/978-3-030-59725-2_48), [arXiv](https://arxiv.org/abs/2010.04049)
 
 ## Activities
-- RSNA Intracranial Hemorrhage Detection, Nov. 2019
-
-  Classify brain hemorrhages in CT slices. Used Xception and EfficientNet-B2 as the backbone. Calibrated the network with a small MLP. Ranked 8% among 1,345 teams.
-
 - SIIM-ISIC Melanoma Classification, Aug. 2020
 
   Identify melanoma in lesion images. Used an ensemble of 4 CNNs and anomaly detection models such as isolation forest and kNN. Reached an AUC of 0.9293 and ranked 25% among 3,314 teams.
@@ -40,3 +36,7 @@ I am a computer vision engineer focusing on medical AI at Diannei Technologies, 
 - COVID19 Global Forecasting, Apr. 2020
 
   Forecast daily COVID-19 spread in regions around world. Used a Transformer encoder to predict a time series of COVID confirmed cases and fatalities around the world. Reached a RMSLE of 0.77 and ranked 25% among 472 teams.
+
+- RSNA Intracranial Hemorrhage Detection, Nov. 2019
+
+  Classify brain hemorrhages in CT slices. Used Xception and EfficientNet-B2 as the backbone. Calibrated the network with a small MLP. Ranked 8% among 1,345 teams.
