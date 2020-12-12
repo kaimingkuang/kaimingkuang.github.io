@@ -10,7 +10,7 @@ I am a computer vision engineer focusing on medical AI at Diannei Technologies, 
 
   EBioMedicine by the Lancet, Nov. 2020
 
-  [DOI](https://doi.org/10.1016/j.ebiom.2020.103106), [GitHub](https://github.com/M3DV/FracNet)
+  [Homepage](https://m3dv.github.io/FracNet/), [DOI](https://doi.org/10.1016/j.ebiom.2020.103106), [GitHub](https://github.com/M3DV/FracNet)
 
 - *MIA-Prognosis: A Deep Learning Framework to Predict Therapy Response*
 
@@ -32,6 +32,11 @@ I am a computer vision engineer focusing on medical AI at Diannei Technologies, 
 - SIIM-ISIC Melanoma Classification, Aug. 2020
 
   Identify melanoma in lesion images. Used an ensemble of 4 CNNs and anomaly detection models such as isolation forest and kNN. Reached an AUC of 0.9293 and ranked 25% among 3,314 teams.
+
+- MICCAI 2020 RibFrac Challenge: 
+Rib Fracture Detection and Classification, Jun. 2020
+
+  Helped host the MICCAI 2020 RibFrac Challenge. Collected a large-scale rib fracture CT dataset of 660 studies. Wrote [the official evaluation code](https://github.com/M3DV/RibFrac-Challenge) for the challenge.
 
 - COVID19 Global Forecasting, Apr. 2020
 
