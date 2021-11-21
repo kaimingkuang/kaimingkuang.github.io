@@ -1,7 +1,8 @@
-kaiming.kuang@outlook.com
+Email: kaiming.kuang@outlook.com
 
 ## Biography
-I am a computer vision engineer focusing on medical AI at Diannei Technologies, Shanghai, China. Prior to that, I went to Renmin University of China in Beijing for undergraduate and earned my master degree at University of California, San Diego.
+I am a computer vision engineer at Diannei Technologies, a medical start-up based in Shanghai. My focus lies in medical AI, specifically in medical imaging. Prior to that, I spent half a year at Hang Seng Bank China, where I worked as management trainee at the global market department.
+I eared my Master of Finance degree at University of California, San Diego, where I was sponsored by a fully-funded fellowship provided by China Scholarship Council. I went to Renmin University of China in Beijing and got dual bachelor in business management and law.
 
 ## Publications
 - *Deep-learning-assisted Detection and Segmentation of Rib Fractures from CT Scans: Development and Validation of FracNet*
