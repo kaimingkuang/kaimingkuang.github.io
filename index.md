@@ -42,18 +42,10 @@ I grew up in the beautiful city of Liuzhou, which is famous for its automobile i
 \*: Equal contributions.
 
 ## Activities
-- SIIM-ISIC Melanoma Classification, Aug. 2020
-
-  Identify melanoma in lesion images. Used an ensemble of 4 CNNs and anomaly detection models such as isolation forest and kNN. Reached an AUC of 0.9293 and ranked 25% among 3,314 teams.
-
 - MICCAI 2020 RibFrac Challenge: 
 Rib Fracture Detection and Classification, Jun. 2020
 
   Helped host the MICCAI 2020 RibFrac Challenge. Collected a large-scale rib fracture CT dataset of 660 studies. Wrote [the official evaluation code](https://github.com/M3DV/RibFrac-Challenge) for the challenge.
-
-- COVID19 Global Forecasting, Apr. 2020
-
-  Forecast daily COVID-19 spread in regions around world. Used a Transformer encoder to predict a time series of COVID confirmed cases and fatalities around the world. Reached a RMSLE of 0.77 and ranked 25% among 472 teams.
 
 - RSNA Intracranial Hemorrhage Detection, Nov. 2019
 
