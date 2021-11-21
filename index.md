@@ -1,31 +1,39 @@
 Email: kaiming.kuang@outlook.com
 
 ## Biography
-I am a computer vision engineer at Diannei Technologies, a medical start-up based in Shanghai. My focus lies in medical AI, specifically in medical imaging. Prior to that, I spent half a year at Hang Seng Bank China, where I worked as management trainee at the global market department.
+I am a computer vision engineer at Dianei Technologies, a medical start-up based in Shanghai. My focus lies in medical AI, specifically in medical imaging. Prior to that, I spent half a year at Hang Seng Bank China, where I worked as management trainee at the global market department.
+
 I eared my Master of Finance degree at University of California, San Diego, where I was sponsored by a fully-funded fellowship provided by China Scholarship Council. I went to Renmin University of China in Beijing and got dual bachelor in business management and law.
 
 ## Publications
+- *Asymmetric 3D Context Fusion for Universal Lesion Detection*
+
+  Jiancheng Yang\*, Yi He\*, **Kaiming Kuang**, Zudi Lin, Hanspeter Pfister, Bingbing Ni
+
+  Medical Image Computing and Computer Assisted Intervention Society (**MICCAI**), 2021
+
+  [Paper](https://arxiv.org/pdf/2109.08684.pdf)
 - *Deep-learning-assisted Detection and Segmentation of Rib Fractures from CT Scans: Development and Validation of FracNet*
 
   Liang Jin, Jiancheng Yang, **Kaiming Kuang**, Bingbing Ni, Yiyi Gao, Yingli Sun, Pan Gao, Weiling Ma, Mingyu Tan, Hui Kang, Jiajun Chen, Ming Li
 
-  EBioMedicine by the Lancet, Nov. 2020
+  EBioMedicine, Nov. 2020
 
-  [Homepage](https://m3dv.github.io/FracNet/), [DOI](https://doi.org/10.1016/j.ebiom.2020.103106), [GitHub](https://github.com/M3DV/FracNet)
+  [Homepage](https://m3dv.github.io/FracNet/), [Paper](https://doi.org/10.1016/j.ebiom.2020.103106), [GitHub](https://github.com/M3DV/FracNet)
 
 - *MIA-Prognosis: A Deep Learning Framework to Predict Therapy Response*
 
   Jiancheng Yang, Jiajun Chen, **Kaiming Kuang**, Tiancheng Lin, Junjun He, Bingbing Ni
 
-  Medical Image Computing and Computer Assisted Intervention Society (**MICCAI**), 2020
+  Medical Image Computing and Computer Assisted Intervention Society (MICCAI), 2020
   
-  [DOI](http://doi.org/10.1007/978-3-030-59713-9_21), [arXiv](https://arxiv.org/abs/2010.04062), [GitHub](https://github.com/M3DV/SimTA)
+  [Paper](https://arxiv.org/abs/2010.04062), [GitHub](https://github.com/M3DV/SimTA)
 
 - *Hierarchical Classification of Pulmonary Lesions: A Large-Scale Radio-Pathomics Study*
 
   Jiancheng Yang, Mingze Gao, **Kaiming Kuang**, Bingbing Ni, Yunlang She, Dong Xie, Chang Chen
 
-  Medical Image Computing and Computer Assisted Intervention Society (**MICCAI**), 2020
+  Medical Image Computing and Computer Assisted Intervention Society (MICCAI), 2020
   
   [DOI](https://doi.org/10.1007/978-3-030-59725-2_48), [arXiv](https://arxiv.org/abs/2010.04049)
 
