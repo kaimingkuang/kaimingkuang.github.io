@@ -45,8 +45,8 @@ I grew up in the beautiful city of Liuzhou, which is famous for its automobile i
 - MICCAI 2020 RibFrac Challenge: 
 Rib Fracture Detection and Classification, Jun. 2020
 
-  Helped host the MICCAI 2020 RibFrac Challenge. Collected a large-scale rib fracture CT dataset of 660 studies. Wrote [the official evaluation code](https://github.com/M3DV/RibFrac-Challenge) for the challenge.
+  Helped host the [MICCAI 2020 RibFrac Challenge](https://ribfrac.grand-challenge.org/). Collected a large-scale rib fracture CT dataset of 660 studies, named RibFrac. Wrote [the official evaluation code](https://github.com/M3DV/RibFrac-Challenge) for the challenge.
 
 - RSNA Intracranial Hemorrhage Detection, Nov. 2019
 
-  Classify brain hemorrhages in CT slices. Used Xception and EfficientNet-B2 as the backbone. Calibrated the network with a small MLP. Ranked 8% among 1,345 teams.
+  Classify brain hemorrhages in CT slices. Used Xception and EfficientNet-B2 as the backbone and calibrated the network with a small MLP. Ranked 8% among 1,345 teams.
