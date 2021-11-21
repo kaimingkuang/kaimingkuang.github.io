@@ -15,7 +15,7 @@ I eared my Master of Finance degree at University of California, San Diego, wher
   [Paper](https://arxiv.org/pdf/2109.08684.pdf)
 - *Deep-learning-assisted Detection and Segmentation of Rib Fractures from CT Scans: Development and Validation of FracNet*
 
-  Liang Jin, Jiancheng Yang, **Kaiming Kuang**, Bingbing Ni, Yiyi Gao, Yingli Sun, Pan Gao, Weiling Ma, Mingyu Tan, Hui Kang, Jiajun Chen, Ming Li
+  Liang Jin\*, Jiancheng Yang\*, **Kaiming Kuang**, Bingbing Ni, Yiyi Gao, Yingli Sun, Pan Gao, Weiling Ma, Mingyu Tan, Hui Kang, Jiajun Chen, Ming Li
 
   EBioMedicine, Nov. 2020
 
@@ -23,7 +23,7 @@ I eared my Master of Finance degree at University of California, San Diego, wher
 
 - *MIA-Prognosis: A Deep Learning Framework to Predict Therapy Response*
 
-  Jiancheng Yang, Jiajun Chen, **Kaiming Kuang**, Tiancheng Lin, Junjun He, Bingbing Ni
+  Jiancheng Yang\*, Jiajun Chen\*, **Kaiming Kuang**, Tiancheng Lin, Junjun He, Bingbing Ni
 
   Medical Image Computing and Computer Assisted Intervention Society (MICCAI), 2020
   
@@ -31,11 +31,13 @@ I eared my Master of Finance degree at University of California, San Diego, wher
 
 - *Hierarchical Classification of Pulmonary Lesions: A Large-Scale Radio-Pathomics Study*
 
-  Jiancheng Yang, Mingze Gao, **Kaiming Kuang**, Bingbing Ni, Yunlang She, Dong Xie, Chang Chen
+  Jiancheng Yang\*, Mingze Gao\*, **Kaiming Kuang**, Bingbing Ni, Yunlang She, Dong Xie, Chang Chen
 
   Medical Image Computing and Computer Assisted Intervention Society (MICCAI), 2020
   
-  [DOI](https://doi.org/10.1007/978-3-030-59725-2_48), [arXiv](https://arxiv.org/abs/2010.04049)
+  [Paper](https://arxiv.org/abs/2010.04049)
+
+\*: Equal contributions.
 
 ## Activities
 - SIIM-ISIC Melanoma Classification, Aug. 2020
