@@ -8,6 +8,11 @@ I eared my Master of Finance degree at University of California, San Diego, wher
 I grew up in the beautiful city of Liuzhou, which is famous for its automobile industry ([五菱神车](https://www.quora.com/Is-it-true-that-Wuling-electric-cars-in-China-are-cheap-and-are-these-cars-of-good-quality-and-not-easily-damaged)) and controversially popular cuisine ([螺蛳粉](https://baike.baidu.com/pic/%E8%9E%BA%E8%9B%B3%E7%B2%89/1455359/1/4610b912c8fcc3cec3fd2cd2730dc188d43f86948ab3?fr=lemma&ct=single#aid=0&pic=2fdda3cc7cd98d10d39f918b213fb80e7aec90c5)).
 
 ## Publications
+- *ViSTA: A Novel Network Improving Lung Adenocarcinoma Invasiveness Prediction from Follow-up CT Series*
+
+  Wei Zhao\*, **Kaiming Kuang**\*, Yingli Sun, Jiancheng Yang, Ge Li, Bingbing Ni, Yingjia Jiang, Bo Jiang, Jun Liu, Ming Li
+
+  Cancers, 2022
 - *What Makes for Automatic Reconstruction of Pulmonary Segments*
 
   **Kaiming Kuang**\*, Li Zhang\*, Jingyu Li, Hongwei Li, Jiajun Chen, Bo Du, Jiancheng Yang
