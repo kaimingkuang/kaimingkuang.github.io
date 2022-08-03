@@ -10,9 +10,10 @@ I grew up in the beautiful city of Liuzhou, which is famous for its automobile i
 ## Publications
 - *ViSTA: A Novel Network Improving Lung Adenocarcinoma Invasiveness Prediction from Follow-up CT Series*
 
-  Wei Zhao\*, **Kaiming Kuang**\*, Yingli Sun, Jiancheng Yang, Ge Li, Bingbing Ni, Yingjia Jiang, Bo Jiang, Jun Liu, Ming Li
+  Wei Zhao\*, Yingli Sun\*, **Kaiming Kuang**, Jiancheng Yang, Ge Li, Bingbing Ni, Yingjia Jiang, Bo Jiang, Jun Liu, Ming Li
 
   Cancers, 2022
+  [Paper](https://www.mdpi.com/2072-6694/14/15/3675)
 - *What Makes for Automatic Reconstruction of Pulmonary Segments*
 
   **Kaiming Kuang**\*, Li Zhang\*, Jingyu Li, Hongwei Li, Jiajun Chen, Bo Du, Jiancheng Yang
