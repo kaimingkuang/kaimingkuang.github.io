@@ -13,6 +13,7 @@ I grew up in the beautiful city of Liuzhou, which is famous for its automobile i
   Wei Zhao\*, Yingli Sun\*, **Kaiming Kuang**, Jiancheng Yang, Ge Li, Bingbing Ni, Yingjia Jiang, Bo Jiang, Jun Liu, Ming Li
 
   Cancers, 2022
+
   [Paper](https://www.mdpi.com/2072-6694/14/15/3675)
 - *What Makes for Automatic Reconstruction of Pulmonary Segments*
 
