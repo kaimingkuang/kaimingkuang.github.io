@@ -1,7 +1,7 @@
 Email: kakuang@ucsd.edu
 
 ## Biography
-I am a second-year master student majoring in computer science at University of California, San Diego. I am fortunate [Professor Xiaolong Wang](https://xiaolonw.github.io/)'s lab at the Electrical and Computer Engineering Department. My research interests lies in 3D computer vision and robot learning.
+I am a second-year master student majoring in computer science at University of California, San Diego. I am very fortunate to work with [Professor Xiaolong Wang](https://xiaolonw.github.io/) at the Electrical and Computer Engineering Department. My research interests lies in 3D computer vision and robot learning.
 
 Prior to enrolling in UCSD, I worked as a computer vision engineer at Dianei Technologies for 3 years, where I focused in R&D of medical AI. I also spent half a year in 2019 at Hang Seng Bank China working as management trainee at the global market department.
 
