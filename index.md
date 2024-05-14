@@ -1,9 +1,7 @@
 Email: kakuang@ucsd.edu
 
-I am looking for summer internship in 2023! Email me if you are interested.
-
 ## Biography
-I am a first-year master student majoring in computer science at University of California, San Diego. I am also a research intern of [Professor Xiaolong Wang](https://xiaolonw.github.io/)'s lab at the Electrical and Computer Engineering Department. My research interests are computer vision, reinforcement learning and robotics.
+I am a second-year master student majoring in computer science at University of California, San Diego. I am fortunate [Professor Xiaolong Wang](https://xiaolonw.github.io/)'s lab at the Electrical and Computer Engineering Department. My research interests lies in 3D computer vision and robot learning.
 
 Prior to enrolling in UCSD, I worked as a computer vision engineer at Dianei Technologies for 3 years, where I focused in R&D of medical AI. I also spent half a year in 2019 at Hang Seng Bank China working as management trainee at the global market department.
 
@@ -13,11 +11,27 @@ I grew up in the beautiful city of Liuzhou, which is famous for its automobile i
 
 ## Selected Publications
 
+- *CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation*
+
+  Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024
+
+  Jun Wang\*, Yuzhe Qin\*, **Kaiming Kuang**, Yigit Korkmaz, Akhilan Gurumoorthy, Hao Su, Xiaolong Wang
+
+  [Homepage](https://cyber-demo.github.io/), [Paper](https://arxiv.org/abs/2402.14795)
+
+- *OpenShape: Scaling Up 3D Shape Representation Towards Open-World Understanding*
+
+  Conference on Neural Information Processing Systems (**NeurIPS**), 2023
+
+  Minghua Liu\*, Ruoxi Shi\*, **Kaiming Kuang**\*, Yinhao Zhu, Xuanlin Li, Shizhong Han, Hong Cai, Fatih Porikli, Hao Su
+
+  [Homepage](https://colin97.github.io/OpenShape/), [Paper](https://arxiv.org/pdf/2305.10764)
+
 - *What Makes for Automatic Reconstruction of Pulmonary Segments*
 
   **Kaiming Kuang**\*, Li Zhang\*, Jingyu Li, Hongwei Li, Jiajun Chen, Bo Du, Jiancheng Yang
 
-  Medical Image Computing and Computer Assisted Intervention Society (**MICCAI**), 2022
+  International Conference on Medical Image Computing and Computer Assisted Intervention Society (**MICCAI**), 2022
 
   [Paper](https://arxiv.org/pdf/2109.08684.pdf)
 
@@ -41,7 +55,7 @@ I grew up in the beautiful city of Liuzhou, which is famous for its automobile i
 
   Jiancheng Yang\*, Jiajun Chen\*, **Kaiming Kuang**, Tiancheng Lin, Junjun He, Bingbing Ni
 
-  Medical Image Computing and Computer Assisted Intervention Society (MICCAI), 2020
+  International Conference on Medical Image Computing and Computer Assisted Intervention Society (MICCAI), 2020
   
   [Paper](https://arxiv.org/abs/2010.04062), [GitHub](https://github.com/M3DV/SimTA)
 
