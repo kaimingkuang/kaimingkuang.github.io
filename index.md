@@ -1,13 +1,17 @@
-Email: kakuang@ucsd.edu
-
 ## Biography
-I am a second-year master student majoring in computer science at University of California, San Diego. I am very fortunate to work with [Professor Xiaolong Wang](https://xiaolonw.github.io/) at the Electrical and Computer Engineering Department. My research interests lies in 3D computer vision and robot learning.
+I am an algorithm engineer in Xiaomi EV, specialized in lidar perception. I earned my MSc in Computer Science at University of California, San Diego, where I had the opportunity to work with [Professor Xiaolong Wang](https://xiaolonw.github.io/) from the Electrical and Computer Engineering Department.
 
-Prior to enrolling in UCSD, I worked as a computer vision engineer at Dianei Technologies for 3 years, where I focused in R&D of medical AI. I also spent half a year in 2019 at Hang Seng Bank China working as management trainee at the global market department.
+Prior to that, I worked as a computer vision engineer at Dianei Technologies for 3 years, where I focused in R&D of medical AI. I also spent half a year in 2019 at Hang Seng Bank China working as management trainee at the global market department.
 
 I earned my Master of Finance degree at University of California, San Diego, where I was sponsored by a fully-funded fellowship provided by China Scholarship Council. I went to Renmin University of China in Beijing and got dual bachelors in business management and law.
 
-I grew up in the beautiful city of Liuzhou, which is famous for its automobile industry ([五菱神车](https://www.quora.com/Is-it-true-that-Wuling-electric-cars-in-China-are-cheap-and-are-these-cars-of-good-quality-and-not-easily-damaged)) and controversially popular cuisine ([螺蛳粉](https://baike.baidu.com/pic/%E8%9E%BA%E8%9B%B3%E7%B2%89/1455359/1/4610b912c8fcc3cec3fd2cd2730dc188d43f86948ab3?fr=lemma&ct=single#aid=0&pic=2fdda3cc7cd98d10d39f918b213fb80e7aec90c5)).
+I grew up in the beautiful city of Liuzhou, which is famous for its automobile industry and controversially popular cuisine named 螺蛳粉.
+
+## Experiences
+- Perception algorithm engineer, Xiaomi EV
+6/2024 - Present
+- Computer vision engineer, Diannei Technologies
+9/2019 - 9/2022
 
 ## Selected Publications
 
