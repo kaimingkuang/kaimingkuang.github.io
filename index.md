@@ -9,8 +9,11 @@ I grew up in the beautiful city of Liuzhou, which is famous for its automobile i
 
 ## Experiences
 - Perception algorithm engineer, Xiaomi EV
+
 6/2024 - Present
+
 - Computer vision engineer, Diannei Technologies
+
 9/2019 - 9/2022
 
 ## Selected Publications
